@@ -1,0 +1,12 @@
+h1{
+  color: red
+}
+
+.events {
+  color: blue;
+}
+
+.event {
+  border:1px solid;
+  width: 400px;
+}
